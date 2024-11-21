@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtXfbZ1vyNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Test\\source\\repos\\NmeaBtTcpHost\\NmeaBtTcpHost\\NmeaBtTcpHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Test\\.nuget\\packages\\inthehand.net.bluetooth\\4.1.44\\inthehand.net.bluetooth.4.1.44.nupkg.sha512",
+    "C:\\Users\\Test\\.nuget\\packages\\linux.bluetooth\\5.66.0\\linux.bluetooth.5.66.0.nupkg.sha512",
+    "C:\\Users\\Test\\.nuget\\packages\\tmds.dbus\\0.15.0\\tmds.dbus.0.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
